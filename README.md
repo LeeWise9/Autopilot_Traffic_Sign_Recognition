@@ -27,7 +27,7 @@
 
 此外，为了适应更复杂的实际情况，还需要对图片做增强处理。增强处理使图片变得扭曲、倾斜，这样扩充了数据集，提高了识别难度，同时也增强网络鲁棒性。图片的增强处理效果如下：<br>
 <p align="center">
-	<img src="https://github.com/LeeWise9/Img_repositories/blob/master/%E6%8C%87%E7%A4%BA%E7%89%8C3.png?raw=true" alt="Sample"  width="400">
+	<img src="https://github.com/LeeWise9/Img_repositories/blob/master/%E6%8C%87%E7%A4%BA%E7%89%8C3.png?raw=true" alt="Sample"  width="500">
 </p>
 
 
