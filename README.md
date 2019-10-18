@@ -14,8 +14,8 @@
 
 您可以通过运行help_func.py来查看数据集中的图片，以及每种图片所占的百分比：<br>
 <p align="center">
-	<img src="https://github.com/LeeWise9/Img_repositories/blob/master/%E6%8C%87%E7%A4%BA%E7%89%8C1.png?raw=true" alt="Sample"  width="250">
+	<img src="https://github.com/LeeWise9/Img_repositories/blob/master/%E6%8C%87%E7%A4%BA%E7%89%8C1.png?raw=true" alt="Sample"  width="350">
 </p>
 <p align="center">
-	<img src="https://github.com/LeeWise9/Img_repositories/blob/master/%E6%8C%87%E7%A4%BA%E7%89%8C2.png?raw=true" alt="Sample"  width="250">
+	<img src="https://github.com/LeeWise9/Img_repositories/blob/master/%E6%8C%87%E7%A4%BA%E7%89%8C2.png?raw=true" alt="Sample"  width="350">
 </p>
