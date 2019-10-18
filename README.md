@@ -20,7 +20,7 @@
 	<img src="https://github.com/LeeWise9/Img_repositories/blob/master/%E6%8C%87%E7%A4%BA%E7%89%8C1.png?raw=true" alt="Sample"  width="350">
 </p>
 <p align="center">
-	<img src="https://github.com/LeeWise9/Img_repositories/blob/master/%E6%8C%87%E7%A4%BA%E7%89%8C2.png?raw=true" alt="Sample"  width="350">
+	<img src="https://github.com/LeeWise9/Img_repositories/blob/master/%E6%8C%87%E7%A4%BA%E7%89%8C2.png?raw=true" alt="Sample"  width="400">
 </p>
 
 可以看到，并不是每个类别都有相同数量的图片，并且有的图片显示得并不清楚，因此需要对图片做去均值处理、归一化处理。
